@@ -531,11 +531,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.0357486"
-     inkscape:cx="197.44533"
-     inkscape:cy="86.344479"
+     inkscape:zoom="2"
+     inkscape:cx="260.96068"
+     inkscape:cy="51.020668"
      inkscape:document-units="px"
-     inkscape:current-layer="g25188"
+     inkscape:current-layer="g25167"
      showgrid="true"
      units="mm"
      inkscape:snap-bbox="true"
@@ -578,7 +578,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -587,17 +587,6 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-19,-881.36216)">
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:20px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="160"
-       y="112.36218"
-       id="text7698"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan7700"
-         x="160"
-         y="112.36218" /></text>
     <g
        id="g25188">
       <rect
@@ -607,6 +596,12 @@
          width="190"
          id="rect6935"
          style="fill:#d7d7d7;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2, 2;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 20,907.36221 70,0 0,-25"
+         id="path4796"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccc" />
       <g
          id="g26021"
          transform="translate(35,0)">
@@ -790,6 +785,17 @@
            id="tspan27518"
            x="106.55518"
            y="1026.0902">left</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="93.005371"
+         y="896.09021"
+         id="text4798"
+         sodipodi:linespacing="125%"><tspan
+           id="tspan4800"
+           sodipodi:role="line"
+           x="93.005371"
+           y="896.09021">far</tspan></text>
     </g>
     <g
        id="g25167"
@@ -806,7 +812,7 @@
          inkscape:connector-curvature="0"
          id="path11448"
          d="m 99.690983,762.3622 0,60 -30,-30 0,-60 z"
-         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1" />
       <path
          sodipodi:nodetypes="cc"
          style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2, 4;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#marker12401);marker-end:url(#marker12597)"
@@ -913,6 +919,28 @@
          id="use26249"
          width="100%"
          height="100%" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10px;line-height:125%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="42.69635"
+         y="806.09027"
+         id="text4802"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4804"
+           x="42.69635"
+           y="806.09027">far</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text4806"
+         y="805.09174"
+         x="102.86481"
+         style="font-style:normal;font-weight:normal;font-size:10px;line-height:125%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="805.09174"
+           x="102.86481"
+           id="tspan4808"
+           sodipodi:role="line">near</tspan></text>
     </g>
   </g>
 </svg>
