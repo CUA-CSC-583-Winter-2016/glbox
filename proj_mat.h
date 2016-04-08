@@ -30,7 +30,7 @@ void arb_proj_mat(const float *a, const float *b, const float *c, const float *e
   @param bottom how far -y the screen extends.
   @param far far clipping plane. The near clipping plane will be the screen.
   @param eye eye point.
-  @param mat matrix output, column major.
+  @param mat matrix output, row major.
 */
 
 void screen_proj_mat(float left, float right, float top, float bottom, float far, float *eye, float *mat);
