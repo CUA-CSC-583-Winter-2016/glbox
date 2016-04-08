@@ -16,8 +16,8 @@ void screen_proj_mat(float left, float right, float top, float bottom, float far
   left -= eye[0];
   top -= eye[1];
   bottom -= eye[1];
-  far -= eye[2];
-  float near = -eye[2];
+  far += eye[2]; // Near an far value are positive despite the planes being in the negative z axis.
+  float near = eye[2];
 
   // row major
   // frustrum * translate
